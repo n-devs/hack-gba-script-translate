@@ -73,7 +73,7 @@ function Start() {
         fs.mkdirSync(dir);
     } else {
         if (!fs.existsSync(dir + "/" + F_MAIN)) {
-            fs.mkdirSync('build/SCRIPT')
+            fs.mkdirSync('build/SCRIPTS')
         } else {
             App("build" + "/" + F_MAIN)
         }
