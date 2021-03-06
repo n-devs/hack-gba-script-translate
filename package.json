@@ -1,0 +1,23 @@
+{
+  "name": "hack-gba-script-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-devs/hack-gba-script-translate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-devs/hack-gba-script-translate/issues"
+  },
+  "homepage": "https://github.com/n-devs/hack-gba-script-translate#readme",
+  "dependencies": {
+    "translation-google": "^0.2.1"
+  }
+}
