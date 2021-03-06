@@ -1,7 +1,7 @@
 const fs = require('fs');
 const translate = require('translation-google');
 
-const F_MAIN = "SCRIPT";
+const F_MAIN = "SCRIPTS";
 
 function Folders(dir) {
     return new Promise((resolve, reject) => {
