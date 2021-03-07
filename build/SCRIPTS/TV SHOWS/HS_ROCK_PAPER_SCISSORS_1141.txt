@@ -1,0 +1,62 @@
+ฉันกำลังจะเล่น <FB>
+กรรไกรหิน - กรรไกรที่มี <FB>
+คุณ ... แต่ฉันไม่รู้สึกว่า <FB>
+มันในวันนี้หลังจากทั้งหมด <P> <END>
+นี่คือ <FB>
+แสดงกรรไกรกระดาษร็อค! <FB>
+ลองเล่น <NAME_MEMO1> <P> <END>
+หนึ่ง ... สอง ... สาม! ... <WB> <END>
+หนึ่ง ... สอง ... สาม ... <WB> <END>
+ร็อค <END>
+กระดาษ <END>
+กรรไกร <END>
+<NAME_MEMO1> <FB>
+ROCK ROCK <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+กรรไกรหิน <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+ROCK PAPER <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+กรรไกรหิน <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+กรรไกรกรรไกร <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+กรรไกรกระดาษ <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+กระดาษร็อค <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+กรรไกรกระดาษ <FB>
+             HARVEST GODDESS <P> <C> <END>
+<NAME_MEMO1> <FB>
+กระดาษกระดาษ <FB>
+             HARVEST GODDESS <P> <C> <END>
+ฉันเสียเวลานี้ <FB>
+ให้ฉันใหม่! <P> <C> <END>
+อีกครั้งอีกครั้ง! <P> <C> <END>
+ฉันชนะ! <P> <C> <END>
+ลาก่อนตอนนี้ <FB>
+<P> <END>
+มันชนะหนึ่งการสูญเสียหนึ่งครั้งสำหรับ <FB>
+เราแต่ละคน. <FB>
+ลาก่อนตอนนี้ <P> <END>
+ฉันไม่อยากจะเชื่อเลยว่าฉันแพ้ <FB>
+มากกว่า 100 ครั้งใน <FB>
+แถว !! ... <P> <C> <END>
+ฉันไม่อยากจะเชื่อเลยว่าฉันจะสูญเสีย <FB>
+<VAR1> ครั้ง <FB>
+ในแถว! <P> <END>
+ฉันจะให้คุณนี้ <FB>
+เป็นรางวัล <P> <END>
+ฉันจะให้คุณ <FB>
+บางสิ่งบางอย่างเป็นรางวัล แต่ <FB>
+มือของคุณเต็ม <P> <C> แย่เกินไป แต่คุณจะต้อง <FB>
+รอจนถึงครั้งต่อไป .... <P> <C> <END>
+ลาก่อนตอนนี้ <FB>
+<P> <END>

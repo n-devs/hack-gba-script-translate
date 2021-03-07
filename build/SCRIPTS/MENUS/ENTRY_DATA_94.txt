@@ -1,0 +1,7 @@
+สุนัข <FB> <END>
+ลูกสุนัข <FB> <END>
+ไก่ <FB> <END>
+CHICK <FB> <END>
+<FB> ป่วย <END>
+<FB> ไม่มีความสุข <END>
+<FB> สุขภาพ <END>

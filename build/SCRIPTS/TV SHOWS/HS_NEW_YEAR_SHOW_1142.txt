@@ -1,0 +1,43 @@
+นั่นคือวันนี้ <FB>
+ลาก่อนตอนนี้ <P> <END>
+นี่คือปีใหม่ <FB>
+เกมโชว์. <FB>
+ก่อนอื่นฉันจะแสดงให้คุณเห็น <FB>
+หมายเลขจากนั้นคุณเดา <FB>
+ไม่ว่าจะเป็นหมายเลขถัดไป <FB>
+จะสูงขึ้นหรือต่ำกว่า <FB>
+ได้รับ? <P> <END>
+<VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2>
+<VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2>
+<VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <VAR2> <P> <END>
+เมื่อเทียบกับ <VAR2> มันคือ <END>
+ขนาดใหญ่กว่า <END>
+เล็กกว่า <END>
+<VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1>
+<VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1>
+<VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <VAR1> <P> <END> <END> <END>
+หมายเลขแรกคือ <VAR2>, <FB>
+และที่สองคือ <VAR1>. <FB>
+คุณเลือก "ใหญ่ขึ้น" ดังนั้น ... <P> <END>
+หมายเลขแรกคือ <VAR2>, <FB>
+และที่สองคือ <VAR1>. <FB>
+คุณเลือก "เล็กลง" ดังนั้น ... <P> <END>
+แก้ไข! <P> <C> อีกครั้งตอนนี้ <P> <END>
+หมายเลขเดียวกัน! <P> <C> อีกครั้งตอนนี้ <P> <END>
+ไม่ถูกต้อง! <P> <C> ขออภัยจบเกม ... <P> <END>
+ลาก่อนตอนนี้ <FB>
+<P> <END>
+คุณชนะเพียงครั้งเดียว <FB>
+ลาก่อนตอนนี้ <P> <END>
+ว้าว! <FB>
+ฉันไม่อยากจะเชื่อว่าคุณ <FB>
+ชนะมากกว่า 100 <WB> ครั้งติดต่อกัน! <P> <END>
+ฉันประทับใจ! <FB>
+คุณชนะ <VAR1> <FB>
+ครั้งติดต่อกัน! <P> <END>
+ฉันจะให้คุณนี้ <FB>
+เป็นรางวัล <P> <END>
+ฉันจะให้คุณ <FB>
+บางสิ่งบางอย่างเป็นรางวัล แต่ <FB>
+มือของคุณเต็ม <P> <C> แย่เกินไป แต่คุณจะต้อง <FB>
+รอจนถึงครั้งต่อไป .... <P> <C> <END>

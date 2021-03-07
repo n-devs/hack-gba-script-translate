@@ -1,0 +1,41 @@
+คุณสมบัติ <ปลายทาง>
+  <END>
+  <END>
+  <END>
+  <END>
+  <END>
+  <END>
+  <END>
+G <END>
+G <END>
+สุขภาพดี <ปลายทาง>
+ไม่มีความสุข <END>
+ป่วย <END>
+ฤดูใบไม้ผลิ <END>
+ฤดูใบไม้ผลิ <END>
+ฤดูร้อน <END>
+ฤดูร้อน <END>
+FALL <END>
+FALL <END>
+ฤดูหนาว <END>
+ฤดูหนาว <END>
+YR <END>
+รายชื่อไก่ <END>
+รายชื่อวัว <END>
+รายชื่อแกะ <END>
+HARVEST SPRITES <END>
+D <END>
+D <END>
+ซ้าย <END>
+ทำงาน <END>
+N / A <END>
+รายงานรายได้ <END>
++ <END>
+- <END>
+ปี <END>
+รายได้ <END>
+ค่าใช้จ่าย <END>
+รายการระดับเครื่องมือ <END>
+ร้านค้า <END>
+อัพเกรด? <END>
+<END>

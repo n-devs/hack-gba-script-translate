@@ -1,0 +1,59 @@
+PIRATE FORTUNE <END>
+ฟอสซิลปลา <END>
+POWER BERRY <END>
+ขวดข้อความ <END>
+ว่างเปล่าสามารถ <END>
+สาขา <END>
+กระดูกปลา <END>
+รองเท้า <END>
+ROCK TROUT <END>
+SCAD <END>
+FATMINNOW <END>
+แซลมอนเชอร์รี่ <END>
+หมู <END>
+ปลาซาร์ดีน <END>
+เทราท์ภูเขา <END>
+WHITEFISH <END>
+ปลาไหล <END>
+<END> ที่ขมขื่น
+BONITO <END>
+FLUKE <END>
+FILEFISH <END>
+ปลาคาร์พสีทอง <END>
+ปลาคาร์ฟเงิน <ปลายทาง>
+ปลาคาร์ฟเงิน <ปลายทาง>
+เคลป์เบส <สิ้นสุด>
+BIGHEAD <END>
+ปลาแซลมอน <END>
+ปลาแมคเคอเรล <END>
+NEEDLEFISH <END>
+SP.ปลาแมคเคอเรล <END>
+SAURY PIKE <END>
+DORADO <END>
+ปลากะพงแดง <ปลายทาง>
+COD <END>
+ROACH <END>
+สีน้ำตาล HAKELING <END>
+RAINBOW TROUT <END>
+แฮร์ริ่ง <END>
+SANDFISH <END>
+FLOUNDER <END>
+BLOWFISH <END>
+เบสสีดำ <END>
+YELLOWTAIL <END>
+BLUEGILL <END>
+ปลาคาร์พ CRUCIAN <END>
+GREENLING <END>
+ปลาทูน่า <END>
+มหาสมุทร SUNFISH <END>
+LIONFISH <END>
+ROCKFISH <END>
+L. SALMON <END>
+SNAKEHEAD <END>
+LAKE SMELT <END>
+JPHUCHEN <END>
+MONKFISH <END>
+ปลาดุก <END>
+ปลาคาร์พ <END>
+COELACANTH <END>
+ปลาหมึก <END>

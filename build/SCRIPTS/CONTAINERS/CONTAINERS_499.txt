@@ -1,0 +1,11 @@
+ช่างตีเหล็ก <END>
+ซูเปอร์มาร์เก็ต <END>
+WOODCUTTER <END>
+คลินิก <END>
+สวนผลไม้ <END>
+<END> อื่น ๆ
+อินน์ <END>
+BEACH HOUSE <END>
+ฟาร์มสัตว์ปีก <END>
+YODEL FARM <END>
+พ่อค้า <END>

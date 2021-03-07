@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "node dev.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,13 @@
   },
   "homepage": "https://github.com/n-devs/hack-gba-script-translate#readme",
   "dependencies": {
+    "@vitalets/google-translate-api": "^5.1.0",
+    "child_process": "^1.0.2",
+    "plain-text-data-to-json": "^1.1.0",
+    "translate-google": "^1.4.3",
     "translation-google": "^0.2.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }

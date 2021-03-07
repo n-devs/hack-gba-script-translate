@@ -1,0 +1,16 @@
+ฤดูใบไม้ผลิ <END>
+ฤดูร้อน <END>
+FALL <END>
+ฤดูหนาว <END>
+วันอาทิตย์ <END>
+วันจันทร์ <END>
+วันอังคาร <END>
+วันพุธ <END>
+วันพฤหัสบดี <END>
+วันศุกร์ <END>
+วันเสาร์ <END>
+ปี <VAR1> <FB> <VAR2> วัน <VAR3> (<VAR4>) <P> <END>
+<VAR1>: 0 <VAR2> AM <P> <END>
+<VAR1>: <VAR2> AM <P> <END>
+<VAR1>: 0 <VAR2> PM <P> <END>
+<VAR1>: <VAR2> PM <P> <END>
